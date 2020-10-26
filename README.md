@@ -1,4 +1,5 @@
-# My Pets
+# My Pets 
+By Caryn during Intro to Mod1 Lecture!!!
 
 ## Objective
 
